@@ -10,4 +10,3 @@ Here is the YT Tutorial bot files! You can check in my youtube channel -> https:
   `npm i discord.js`
   `npm i dotenv`
   `npm i wokcommands`
-6.All Done!
