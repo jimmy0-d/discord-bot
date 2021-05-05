@@ -3,7 +3,7 @@ Here is the YT Tutorial bot files! You can check in my youtube channel -> https:
 
 # Set-Up
 1. Download the files
-2. Open VS Code
+2. Open VS Code or VS
 3. Open the folder with the files 
 4. Open the terminal
 5. Type all this in terminal:
