@@ -9,7 +9,7 @@
   `npm i wokcommands`
 
 
-# Channel Permissions
+# Member Permissions
 > ADMINISTRATOR ,
 CREATE_INSTANT_INVITE ,
 KICK_MEMBERS ,
